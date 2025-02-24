@@ -76,7 +76,7 @@ Onde:
  
 - < SOURCEFILE.SQL>: Arquivo a ser importado.
 
-## 6. Créditos
+## 6. Autoria
 
 Elaborador por Waltemberg Dantas
 
