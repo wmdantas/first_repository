@@ -9,7 +9,7 @@ Este Miniprojeto é parte da componente avaliativa no módulo de competências p
 ## 2. Instalação da Base de Dados
 
 - ### Pré-requisito
-Possuir aaha instalado o MySQL, disponível em [MySQL] ou equivalente, como por exemplo o [XAMPP], de acordo com o sistema operacional em uso no computador. 
+Possuir instalado o MySQL, disponível em [MySQL] ou equivalente, como por exemplo o [XAMPP], de acordo com o sistema operacional em uso no computador. 
 
 - ### Acesso a Base de Dados
 Abrir o ficheiro do projeto (.sql) por meio de duplo clique 
